@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui._r3"
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal Principal] HD
+http://cdn99.one:80/243200/rmrajd/128349.ts
